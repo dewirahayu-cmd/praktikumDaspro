@@ -1,2 +1,1 @@
-# praktikumDaspro
-Ini repository pertama saya!
+Hello Github, Ini repository pertama saya!
